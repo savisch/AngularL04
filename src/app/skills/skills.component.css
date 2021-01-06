@@ -1,0 +1,10 @@
+ul {
+    margin: 0 auto;
+    /* border: 1px solid red; */
+    width: 15%;
+    padding-right: 1em;
+}
+
+div {
+    background-color: rgb(210, 203, 216);
+}
